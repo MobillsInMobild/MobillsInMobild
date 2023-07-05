@@ -20,10 +20,7 @@
 
 - ✨ Mastered a little bit of basic computer, cryptography knowledge, love to do DIY & repair  
   
-
-
 <br/>  
-
 
 ## My Skill Set 
 
@@ -57,8 +54,6 @@
 ### Learning
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-
-
 <br/>  
 
 # Blog posts
@@ -70,8 +65,11 @@
 - [拜占庭共识中的“蜜獾”](https://justloseit.top/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%85%B1%E8%AF%86%E4%B8%AD%E7%9A%84%E2%80%9C%E8%9C%9C%E7%8D%BE%E2%80%9D/)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>  
 
 ## Connect with me  
+<br />
+
 <div align="center">
 <a href="mailto:Nemo@buaa.edu.cn" target="_blank">
 <img src=https://img.shields.io/badge/mail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge alt=mail style="margin-bottom: 5px;" />
@@ -81,20 +79,22 @@
 <img src=https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=for-the-badge alt=RSS style="margin-bottom: 5px;" />
 <a href="https://github.com/MobillsInMobild" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
 </a> 
 </div>  
+<br />
 
 ----
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=MobillsInMobild&theme=react-dark)
+<div align="center">
+<img src=https://github-readme-activity-graph.vercel.app/graph?username=MobillsInMobild&theme=react-dark alt=activity-graph style="margin-bottom: 5px;" />
+</div>  
 
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MobillsInMobild/MobillsInMobild/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MobillsInMobild/MobillsInMobild/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-
+</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MobillsInMobild&&style=flat-square" align="center" />
