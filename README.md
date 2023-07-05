@@ -61,6 +61,10 @@
 
 <br/>  
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## Connect with me  
 <div align="center">
@@ -75,25 +79,20 @@
 
 </a> 
 </div>  
-  
-
-<br/>  
-
-
 
 ----
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=MobillsInMobild&theme=react-dark)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
----
-<br/>  
+
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MobillsInMobild&&style=flat-square" align="center" />
 </div>  
 
 <br />
-
