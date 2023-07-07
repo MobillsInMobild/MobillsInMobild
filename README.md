@@ -6,10 +6,10 @@
 ### <div align="center">👋 I'm [@Mobilis In Mobili](https://github.com/MobillsInMobild)</div>  
   
 
--  🎓 I am a first-year master student at BUAA  
+-  🎓 First-year master student at BUAA  
   
 
--  🔭 My current research is in blockchain, mainly covering cross-chain, consensus, light client, etc.  
+-  🔭 Current research is in blockchain, mainly covering cross-chain, consensus, light client, etc.  
   
 
 - ⚡ Highly concerned and interested in Crypto, DeFi, MEV, etc.  
