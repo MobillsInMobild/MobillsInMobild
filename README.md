@@ -59,10 +59,10 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Cryptic Woods 对 jaredfromsubway 的采访](https://justloseit.top/Cryptic%20Woods%20%E5%AF%B9%20jaredfromsubway%20%E7%9A%84%E9%87%87%E8%AE%BF/)
+- [All-in-One：信息安全数学基础](https://justloseit.top/All-in-One%EF%BC%9A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/)
 - [BokkyPooBah&#39;s Token Teleportation Service 复现](https://justloseit.top/BokkyPooBah's%20Token%20Teleportation%20Service%20%E5%A4%8D%E7%8E%B0/)
 - [规则翻译：《Agent Decker/牌筑特工》](https://justloseit.top/%E8%A7%84%E5%88%99%E7%BF%BB%E8%AF%91%EF%BC%9AAgent%20Decker%20%E7%89%8C%E7%BB%84%E7%89%B9%E5%B7%A5/)
 - [SadServers 通关记录](https://justloseit.top/SadServers%20%E9%80%9A%E5%85%B3%E8%AE%B0%E5%BD%95/)
-- [Learn Git Branching 备忘](https://justloseit.top/Learn%20Git%20Branching%20%E5%A4%87%E5%BF%98/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
