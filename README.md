@@ -23,33 +23,38 @@
 <br/>  
 
 ## My Skill Set 
-
+### Frequently
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=for-the-badge)
 
 ![Web3py Badge](https://img.shields.io/badge/Web3py-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
+![py_plot](https://img.shields.io/badge/py_plot-3F4F75?logo=plotly&logoColor=fff&style=for-the-badge)
+
+![foundry](https://custom-icon-badges.demolab.com/badge/foundry-B8002E?logo=foundry&style=for-the-badge)
+![hardhat](https://custom-icon-badges.demolab.com/badge/hardhat-4b5cc4?logo=hardhat_seek&style=for-the-badge)
+
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 
+![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=for-the-badge)
+
+
+### Occasionally
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=for-the-badge)
 
 ![ganache](https://custom-icon-badges.demolab.com/badge/ganache-b98b5b?logo=ganache&style=for-the-badge)
 ![truffle](https://custom-icon-badges.demolab.com/badge/truffle-8AB800?logo=truffle&style=for-the-badge)
-![foundry](https://custom-icon-badges.demolab.com/badge/foundry-B8002E?logo=foundry&style=for-the-badge)
-
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-
-![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=for-the-badge)
 
 ### Learning
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
