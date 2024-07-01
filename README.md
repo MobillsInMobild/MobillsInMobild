@@ -19,6 +19,10 @@
   
 
 - ✨ Mastered a little bit of basic computer, cryptography knowledge, love to do DIY & repair  
+
+
+- 👀 **Recently looking for a job**
+
   
 <br/>  
 
