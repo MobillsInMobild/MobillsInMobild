@@ -80,7 +80,7 @@
 <br />
 
 <div align="center">
-<a href="mailto:Nemo@buaa.edu.cn" target="_blank">
+<a href="mailto:hang_ruan@foxmail.com" target="_blank">
 <img src=https://img.shields.io/badge/mail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge alt=mail style="margin-bottom: 5px;" />
 <a href="https://justloseit.top/" target="_blank">
 <img src=https://img.shields.io/badge/Blog-0E83CD?logo=hexo&logoColor=fff&style=for-the-badge alt=Blog style="margin-bottom: 5px;" />
