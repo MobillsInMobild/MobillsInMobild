@@ -6,7 +6,7 @@
 ### <div align="center">👋 I'm [@Mobilis In Mobili](https://github.com/MobillsInMobild)</div>  
   
 
--  🎓 Second-year master student at BUAA, expected to graduate in Jan. 2025 or Jun. 2025
+-  🎓 Third-year master student at BUAA, expected to graduate in Jan. 2025 or Jun. 2025
   
 
 -  🔭 Current research is in blockchain, mainly covering cross-chain, consensus, light client, etc.  
