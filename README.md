@@ -6,12 +6,15 @@
 ### <div align="center">👋 I'm [@Mobilis In Mobili](https://github.com/MobillsInMobild)</div>  
   
 
--  🎓 Third-year master student at BUAA, expected to graduate in Jan. 2025 or Jun. 2025
-  
+-  🎓 M.S. & B.S. in Engineering, Beijing University of Aeronautics and Astronautics (BUAA)
 
--  🔭 Current research is in blockchain, mainly covering cross-chain, consensus, light client, etc.  
-  
 
+-  💼 Currently working as a quantitative trader
+
+
+- 🔭 My research experience is in blockchain, mainly covering cross-chain, consensus, light client, etc.  
+
+  
 - ⚡ Highly concerned and interested in Crypto, DeFi, MEV, etc.  
   
 
@@ -20,8 +23,6 @@
 
 - ✨ Mastered a little bit of basic computer, cryptography knowledge, love to do DIY & repair  
 
-
-- 👀 **Recently looking for a job**
 
   
 <br/>  
