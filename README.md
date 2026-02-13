@@ -68,11 +68,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kindle Keyboard 刷机 KOReader](https://justloseit.top/Kindle%20Keyboard%20%E5%88%B7%E6%9C%BA%20KOReader/)
 - [广州长隆野生动物园记录](https://justloseit.top/%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%BE%E9%9B%86/)
 - [数据瞰影：2025 年 Audubon 摄影奖 Top100](https://justloseit.top/%E6%95%B0%E6%8D%AE%E7%9E%B0%E5%BD%B1%EF%BC%9A2025%E5%B9%B4Audubon%E6%91%84%E5%BD%B1%E5%A5%96Top100/)
 - [Dehancer：当代数字工具如何致敬传统胶片工艺](https://justloseit.top/Dehancer%20%E8%8F%9C%E5%8D%95%E5%89%96%E6%9E%90%EF%BC%9A%E6%95%B0%E7%A0%81%E5%B7%A5%E5%85%B7%E5%A6%82%E4%BD%95%E8%87%B4%E6%95%AC%E4%BC%A0%E7%BB%9F%E8%83%B6%E7%89%87%E5%B7%A5%E8%89%BA/)
 - [年度总结：2024年我的阅读·影视·游戏](https://justloseit.top/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%EF%BC%9A2024%E5%B9%B4%E6%88%91%E7%9A%84%E9%98%85%E8%AF%BB%C2%B7%E5%BD%B1%E8%A7%86%C2%B7%E6%B8%B8%E6%88%8F/)
-- [b10c...eb5d 玩了哪些「梗」？](https://justloseit.top/b10ceb5d%E7%8E%A9%E6%A2%97/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
