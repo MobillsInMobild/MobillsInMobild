@@ -1,26 +1,35 @@
-name: Latest Blog Posts
+name: Latest Blog Transmissions
 
 on:
-  schedule:
-    - cron: "30 19 * * *"
+schedule:
+- cron: "30 19 * * *"
 
-  workflow_dispatch:
+workflow_dispatch:
 
 permissions:
-  contents: write
+contents: write
 
 jobs:
-  update-readme-with-blog:
-    runs-on: ubuntu-latest
+update-readme-with-blog:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v5
+```
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
 
-      - name: Update latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://justloseit.top/atom.xml"
-          disable_item_validation: true
-          item_exec: "if (!post.title) post = null;"
-          date_format: yy-mm-dd
+  - name: Receive latest transmissions
+    uses: gautamkrishnar/blog-post-workflow@v1
+    with:
+      feed_list: "https://justloseit.top/atom.xml"
+
+      max_post_count: 5
+
+      date_format: "yyyy-mm-dd"
+
+      disable_item_validation: true
+
+      item_exec: "if (!post.title) post = null;"
+
+      template: '<tr><td align="center"><code>#$counter</code></td><td align="center"><code>$date</code></td><td>📄 <a href="$url"><strong>$title</strong></a></td></tr>$newline'
+```
