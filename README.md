@@ -1,115 +1,263 @@
 <div align="center">
-<img src="https://justloseit.top/about/mySVG.svg" align="center" height="150" width="150" />
-</div>  
-  
 
-### <div align="center">👋 I'm [@Mobilis In Mobili](https://github.com/MobillsInMobild)</div>  
-  
+<img
+src="https://justloseit.top/about/mySVG.svg"
+width="145"
+height="145"
+alt="Mobilis In Mobili"
+/>
 
--  🎓 M.S. & B.S. in Engineering, Beijing University of Aeronautics and Astronautics (BUAA)
+<h1>Mobilis In Mobili</h1>
 
+<p>
+  <strong>Quantitative Trader · Blockchain · Security · AI</strong>
+</p>
 
--  💼 Currently working as a quantitative trader
+<p>
+  <em>mobilis in mobili.</em>
+</p>
 
+<p>
+  <a href="https://justloseit.top/">
+    <img src="https://img.shields.io/badge/Blog-0E83CD?logo=hexo&logoColor=white&style=flat-square" alt="Blog" />
+  </a>
+  <a href="mailto:hang_ruan@foxmail.com">
+    <img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Mail" />
+  </a>
+  <a href="https://justloseit.top/atom.xml">
+    <img src="https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white&style=flat-square" alt="RSS" />
+  </a>
+  <a href="https://github.com/MobillsInMobild">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
+  </a>
+</p>
 
-- 🔭 My research experience is in blockchain, mainly covering cross-chain, consensus, light client, etc.  
-
-  
-- ⚡ Highly concerned and interested in Crypto, DeFi, MEV, etc.  
-  
-
-- 😼 Former CTFer, especially interested in puzzle solving and miscellaneous items  
-  
-
-- ✨ Mastered a little bit of basic computer, cryptography knowledge, love to do DIY & repair  
-
-
-  
-<br/>  
-
-## My Skill Set 
-### Frequently
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
-![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
-
-![Web3py Badge](https://img.shields.io/badge/Web3py-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
-![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
-![py_plot](https://img.shields.io/badge/py_plot-3F4F75?logo=plotly&logoColor=fff&style=for-the-badge)
-
-![foundry](https://custom-icon-badges.demolab.com/badge/foundry-B8002E?logo=foundry&style=for-the-badge)
-![hardhat](https://custom-icon-badges.demolab.com/badge/hardhat-4b5cc4?logo=hardhat_seek&style=for-the-badge)
-
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
-
-![XDA Developers Badge](https://img.shields.io/badge/XDA%20Developers-EA7100?logo=xdadevelopers&logoColor=fff&style=for-the-badge)
-
-
-### Occasionally
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=for-the-badge)
-
-![ganache](https://custom-icon-badges.demolab.com/badge/ganache-b98b5b?logo=ganache&style=for-the-badge)
-![truffle](https://custom-icon-badges.demolab.com/badge/truffle-8AB800?logo=truffle&style=for-the-badge)
-
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-
-### Learning
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-<br/>  
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [一些关于 AI 的呓语](https://justloseit.top/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8EAI%E7%9A%84%E5%91%93%E8%AF%AD/)
-- [年度总结：2025年我的阅读·影视·游戏](https://justloseit.top/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%EF%BC%9A2025%E5%B9%B4%E6%88%91%E7%9A%84%E9%98%85%E8%AF%BB%C2%B7%E5%BD%B1%E8%A7%86%C2%B7%E6%B8%B8%E6%88%8F/)
-- [Kindle Keyboard 刷机 KOReader](https://justloseit.top/Kindle%20Keyboard%20%E5%88%B7%E6%9C%BA%20KOReader/)
-- [广州长隆野生动物园记录](https://justloseit.top/%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%BE%E9%9B%86/)
-- [数据瞰影：2025 年 Audubon 摄影奖 Top100](https://justloseit.top/%E6%95%B0%E6%8D%AE%E7%9E%B0%E5%BD%B1%EF%BC%9A2025%E5%B9%B4Audubon%E6%91%84%E5%BD%B1%E5%A5%96Top100/)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>  
-
-## Connect with me  
-<br />
-
-<div align="center">
-<a href="mailto:hang_ruan@foxmail.com" target="_blank">
-<img src=https://img.shields.io/badge/mail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge alt=mail style="margin-bottom: 5px;" />
-<a href="https://justloseit.top/" target="_blank">
-<img src=https://img.shields.io/badge/Blog-0E83CD?logo=hexo&logoColor=fff&style=for-the-badge alt=Blog style="margin-bottom: 5px;" />
-<a href="https://justloseit.top/atom.xml" target="_blank">
-<img src=https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=for-the-badge alt=RSS style="margin-bottom: 5px;" />
-<a href="https://github.com/MobillsInMobild" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
-</div>  
-<br />
-
-----
-<h2 align="center">Contribution Matrix</h2>
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MobillsInMobild/MobillsInMobild/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MobillsInMobild/MobillsInMobild/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>  
+<br />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MobillsInMobild&&style=flat-square" align="center" />
-</div>  
+  <img
+    src="./assets/terminal.svg"
+    width="100%"
+    alt="Mobilis Terminal"
+  />
+</div>
 
 <br />
+
+## IDENTITY // 01
+
+```text
+> whoami
+```
+
+* 💼 Quantitative trader
+* 🎓 M.S. & B.S. in Engineering @ **BUAA**
+* 🔗 Research background in **blockchain**, including cross-chain protocols, consensus and light clients
+* ⚡ Interested in **Crypto · DeFi · MEV · Market Infrastructure**
+* 🤖 Exploring **AI · LLM Agents · Document Intelligence**
+* 😼 Former CTFer — especially interested in puzzles and miscellaneous challenges
+* 🔧 I enjoy building, breaking, repairing and understanding systems
+
+<br />
+
+## Tech // 02
+
+<div align="center">
+<br />
+<img src="https://img.shields.io/badge/◈_CORE_SYSTEMS-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br />
+<br />
+
+<sub>
+SYSTEMS ONLINE · LOW LEVEL · AUTOMATION · INFRASTRUCTURE
+</sub>
+
+<br />
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/⬡_BLOCKCHAIN_STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=8A2BE2" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Foundry-151515?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=111111" />
+<img src="https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Smart_Contracts-6F42C1?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Cross--Chain-6E56CF?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Consensus-141321?style=for-the-badge&logo=ethereum&logoColor=8A92B2" />
+<img src="https://img.shields.io/badge/Light_Clients-27272A?style=for-the-badge&logo=protocolsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/DeFi-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" />
+<img src="https://img.shields.io/badge/MEV-111111?style=for-the-badge&logo=ethereum&logoColor=00E5FF" />
+
+<br />
+<br />
+
+<sub>
+CONSENSUS · CROSS-CHAIN · SMART CONTRACTS · DEFI · MEV
+</sub>
+
+<br />
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/⌁_DATA_&_MARKET_SYSTEMS-0D1117?style=for-the-badge&labelColor=0D1117&color=00C853" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Quant-111827?style=for-the-badge&logo=quantconnect&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Market_Data-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/Data_Pipelines-111827?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
+
+<br />
+<br />
+
+<sub>
+DATA · RESEARCH · MARKET INFRASTRUCTURE · ANALYTICS
+</sub>
+
+<br />
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/⌬_CURRENT_EXPLORATION-0D1117?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=elastic&logoColor=00BFB3" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+
+<br />
+<br />
+
+<sub>
+LLM AGENTS · RAG · VISION · DOCUMENT AI · RUST
+</sub>
+
+<br />
+
+
+
+</div>
+
+
+## Latest Writing // 03
+
+<!-- BLOG-POST-LIST:START -->
+
+* [一些关于 AI 的呓语](https://justloseit.top/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8EAI%E7%9A%84%E5%91%93%E8%AF%AD/)
+* [年度总结：2025年我的阅读·影视·游戏](https://justloseit.top/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%EF%BC%9A2025%E5%B9%B4%E6%88%91%E7%9A%84%E9%98%85%E8%AF%BB%C2%B7%E5%BD%B1%E8%A7%86%C2%B7%E6%B8%B8%E6%88%8F/)
+* [Kindle Keyboard 刷机 KOReader](https://justloseit.top/Kindle%20Keyboard%20%E5%88%B7%E6%9C%BA%20KOReader/)
+* [广州长隆野生动物园记录](https://justloseit.top/%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%BE%E9%9B%86/)
+* [数据瞰影：2025 年 Audubon 摄影奖 Top100](https://justloseit.top/%E6%95%B0%E6%8D%AE%E7%9E%B0%E5%BD%B1%EF%BC%9A2025%E5%B9%B4Audubon%E6%91%84%E5%BD%B1%E5%A5%96Top100/)
+
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+## Contribution // 04
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-night-rainbow.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/profile-season.svg"
+  />
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D Contribution Graph"
+  />
+</picture>
+
+</div>
+
+<br />
+
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MobillsInMobild/MobillsInMobild/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MobillsInMobild/MobillsInMobild/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MobillsInMobild/MobillsInMobild/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+```text
+mobilis@github:~$ Per Aspera Ad Astra _
+```
+
+<a href="https://justloseit.top/">
+  <img src="https://img.shields.io/badge/Blog-0E83CD?logo=hexo&logoColor=white&style=flat-square" alt="Blog" />
+</a>
+<a href="mailto:hang_ruan@foxmail.com">
+  <img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Mail" />
+</a>
+<a href="https://justloseit.top/atom.xml">
+  <img src="https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white&style=flat-square" alt="RSS" />
+</a>
+
+<br />
+<br />
+
+<img
+src="https://komarev.com/ghpvc/?username=MobillsInMobild&style=flat-square&label=PROFILE+VIEWS"
+alt="Profile Views"
+/>
+
+</div>
