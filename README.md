@@ -201,7 +201,11 @@ LATEST SIGNALS RECEIVED FROM THE MOBILIS NETWORK
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><tr><td align="center"><code>#1</code></td><td align="center"><code>2026-05-19</code></td><td>📄 <a href="https://justloseit.top/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8EAI%E7%9A%84%E5%91%93%E8%AF%AD/"><strong>一些关于 AI 的呓语</strong></a></td></tr>
+<tr><td align="center"><code>#2</code></td><td align="center"><code>2026-02-16</code></td><td>📄 <a href="https://justloseit.top/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%EF%BC%9A2025%E5%B9%B4%E6%88%91%E7%9A%84%E9%98%85%E8%AF%BB%C2%B7%E5%BD%B1%E8%A7%86%C2%B7%E6%B8%B8%E6%88%8F/"><strong>年度总结：2025年我的阅读·影视·游戏</strong></a></td></tr>
+<tr><td align="center"><code>#3</code></td><td align="center"><code>2026-02-09</code></td><td>📄 <a href="https://justloseit.top/Kindle%20Keyboard%20%E5%88%B7%E6%9C%BA%20KOReader/"><strong>Kindle Keyboard 刷机 KOReader</strong></a></td></tr>
+<tr><td align="center"><code>#4</code></td><td align="center"><code>2026-01-03</code></td><td>📄 <a href="https://justloseit.top/%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%BE%E9%9B%86/"><strong>广州长隆野生动物园记录</strong></a></td></tr>
+<tr><td align="center"><code>#5</code></td><td align="center"><code>2025-12-13</code></td><td>📄 <a href="https://justloseit.top/%E6%95%B0%E6%8D%AE%E7%9E%B0%E5%BD%B1%EF%BC%9A2025%E5%B9%B4Audubon%E6%91%84%E5%BD%B1%E5%A5%96Top100/"><strong>数据瞰影：2025 年 Audubon 摄影奖 Top100</strong></a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
