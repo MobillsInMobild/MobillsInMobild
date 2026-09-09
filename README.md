@@ -175,15 +175,52 @@ LLM AGENTS · RAG · VISION · DOCUMENT AI · RUST
 
 ## Latest Writing // 03
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/CHANNEL-ONLINE-00C853?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SOURCE-JUSTLOSEIT.TOP-00E5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AUTO--SYNC-ENABLED-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+
+<br />
+<br />
+
+<sub>
+LATEST SIGNALS RECEIVED FROM THE MOBILIS NETWORK
+</sub>
+
+</div>
+
+<br />
+
+<table>
+  <thead>
+    <tr>
+      <th width="70" align="center">ID</th>
+      <th width="130" align="center">DATE</th>
+      <th>TRANSMISSION</th>
+    </tr>
+  </thead>
+  <tbody>
 <!-- BLOG-POST-LIST:START -->
-
-* [一些关于 AI 的呓语](https://justloseit.top/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8EAI%E7%9A%84%E5%91%93%E8%AF%AD/)
-* [年度总结：2025年我的阅读·影视·游戏](https://justloseit.top/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%EF%BC%9A2025%E5%B9%B4%E6%88%91%E7%9A%84%E9%98%85%E8%AF%BB%C2%B7%E5%BD%B1%E8%A7%86%C2%B7%E6%B8%B8%E6%88%8F/)
-* [Kindle Keyboard 刷机 KOReader](https://justloseit.top/Kindle%20Keyboard%20%E5%88%B7%E6%9C%BA%20KOReader/)
-* [广州长隆野生动物园记录](https://justloseit.top/%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%BE%E9%9B%86/)
-* [数据瞰影：2025 年 Audubon 摄影奖 Top100](https://justloseit.top/%E6%95%B0%E6%8D%AE%E7%9E%B0%E5%BD%B1%EF%BC%9A2025%E5%B9%B4Audubon%E6%91%84%E5%BD%B1%E5%A5%96Top100/)
-
 <!-- BLOG-POST-LIST:END -->
+  </tbody>
+</table>
+
+<div align="center">
+
+<br />
+
+<a href="https://justloseit.top/">
+  <img src="https://img.shields.io/badge/ACCESS_FULL_ARCHIVE_→-0D1117?style=for-the-badge&logo=hexo&logoColor=00E5FF" alt="Access Full Archive" />
+</a>
+
+<br />
+<br />
+
+</div>
+
+<br />
+
 
 <br />
 
