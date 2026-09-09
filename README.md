@@ -94,6 +94,11 @@
 <br />
 
 ----
+<h2 align="center">Contribution Matrix</h2>
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+</div>
 
 <div align="center">
 <picture>
