@@ -94,9 +94,6 @@
 <br />
 
 ----
-<div align="center">
-<img src=https://github-readme-activity-graph.vercel.app/graph?username=MobillsInMobild&theme=react-dark alt=activity-graph style="margin-bottom: 5px;" />
-</div>  
 
 <div align="center">
 <picture>
