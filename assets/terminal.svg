@@ -188,7 +188,7 @@
     </text>
 
     <text x="334" y="260" class="green normal">
-        26
+        25
     </text>
 
     <text x="395" y="260" class="secondary small">
@@ -310,7 +310,7 @@
         text-anchor="end"
         class="secondary small"
     >
-        2026-09-24 22:01 UTC
+        2026-09-25 21:59 UTC
     </text>
 
 </svg>
